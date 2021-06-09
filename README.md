@@ -2,4 +2,3 @@
 My personal musings and
 posts.
 
-[[_TOC_]]
