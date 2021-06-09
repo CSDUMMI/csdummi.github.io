@@ -1,2 +1,5 @@
-# csdummi.github.io
-GitHub Pages
+# CSDUMMI's Blog
+My personal musings and
+posts.
+
+[[_TOC_]]
